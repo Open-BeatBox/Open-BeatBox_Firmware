@@ -1,28 +1,25 @@
 # Open-BEATBox — Firmware
 
-Repository for the Open-BEATBox device firmware.
+**The Open-BEATBox module firmware is in the
+[Software repository](https://github.com/Open-BeatBox/Open-BeatBox_Software),
+under [`micropython/`](https://github.com/Open-BeatBox/Open-BeatBox_Software/tree/main/micropython).**
 
-## Status
+This repository is a placeholder for possible stand-alone firmware releases. It
+holds no code, has no release and no DOI of its own. To cite the firmware, cite
+the Software repository (its `CITATION.cff`, or its Zenodo record).
 
-**No firmware source has been published yet.** This repository currently holds
-only its licence, a `.gitignore` and this README. The firmware will be added
-here when it is ready for release, and no target hardware version has been
-declared for it so far.
+## Where to go
 
-For the hardware and software that are already published, see the
-[Hardware](https://github.com/Open-BeatBox/Open-BeatBox_Hardware) and
-[Software](https://github.com/Open-BeatBox/Open-BeatBox_Software) repositories.
-
-## Licence
-
-GNU General Public License v3.0 (**GPL-3.0**). See [`LICENSE`](./LICENSE).
+- Flashing the module boards: [manual, *Flashing the module boards*](https://open-beatbox.github.io/docs/manual/hardware/flashing-cards.html)
+- Firmware architecture and deployment: [manual, *Firmware*](https://open-beatbox.github.io/docs/manual/software/firmware/index.html)
+- Firmware issues: [Software issue tracker](https://github.com/Open-BeatBox/Open-BeatBox_Software/issues)
+- Hardware files: [Open-BeatBox_Hardware](https://github.com/Open-BeatBox/Open-BeatBox_Hardware)
 
 ## Project links
 
 - Project website: https://open-beatbox.github.io/
 - Manual: https://open-beatbox.github.io/docs/manual/
 
-## Issues
+## Licence
 
-Please use this repository's
-[issue tracker](https://github.com/Open-BeatBox/Open-BeatBox_firmware/issues).
+GNU General Public License v3.0 (**GPL-3.0**). See [`LICENSE`](./LICENSE).
