@@ -15,6 +15,23 @@ the Software repository (its `CITATION.cff`, or its Zenodo record).
 - Firmware issues: [Software issue tracker](https://github.com/Open-BeatBox/Open-BeatBox_Software/issues)
 - Hardware files: [Open-BeatBox_Hardware](https://github.com/Open-BeatBox/Open-BeatBox_Hardware)
 
+## Citing
+
+The platform is described in the reference preprint:
+
+> Euvrard M, Benzina N, Domingues D, Mondragón-González SL, Huzard D, Penderia G, Travert-Jouanneau Y, Lavielle O, Lousada E, Schreiweis C, Lorenz A, Pavlov P, Ajili Z, Lebegue L, Tissier P, Burguière E. "Open-BEATBox: an open-source autonomous operant chamber for high-throughput data acquisition of complex behaviour." bioRxiv, 2026 (DOI to be added when the preprint is posted).
+
+For the firmware itself, cite the Zenodo record of the Software release you
+used (release `biorxiv-v1` for the version described in the preprint; DOI: to
+be added once release `biorxiv-v1` is published on Zenodo).
+
+## Related repositories
+
+- [Open-BeatBox_Software](https://github.com/Open-BeatBox/Open-BeatBox_Software) — the firmware (`micropython/`) and the PC application
+- [Open-BeatBox_Hardware](https://github.com/Open-BeatBox/Open-BeatBox_Hardware) — CAD and circuit boards
+- [Open-BeatBox_Documentation](https://github.com/Open-BeatBox/Open-BeatBox_Documentation) — manual, assembly tutorials, Master BOM
+- [Open-BeatBox.github.io](https://github.com/Open-BeatBox/Open-BeatBox.github.io) — project website
+
 ## Project links
 
 - Project website: https://open-beatbox.github.io/
