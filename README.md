@@ -19,11 +19,11 @@ the Software repository (its `CITATION.cff`, or its Zenodo record).
 
 The platform is described in the reference preprint:
 
-> Euvrard M, Benzina N, Domingues D, Mondragón-González SL, Huzard D, Penderia G, Travert-Jouanneau Y, Lavielle O, Lousada E, Schreiweis C, Lorenz A, Pavlov P, Ajili Z, Lebegue L, Tissier P, Burguière E. "Open-BEATBox: an open-source autonomous operant chamber for high-throughput data acquisition of complex behaviour." bioRxiv, 2026 (DOI to be added when the preprint is posted).
+> Euvrard M, Benzina N, Domingues D, Mondragón-González SL, Huzard D, Penderia G, Travert-Jouanneau Y, Lavielle O, Lousada E, Schreiweis C, Lorenz A, Pavlov P, Ajili Z, Lebegue L, Tissier P, Burguière E. "Open-BEATBox: an open-source autonomous operant chamber for high-throughput data acquisition of complex behaviour." bioRxiv, 2026. doi: [10.64898/2026.11.07.765109](https://doi.org/10.64898/2026.11.07.765109)
 
 For the firmware itself, cite the Zenodo record of the Software release you
-used (release `biorxiv-v1` for the version described in the preprint; DOI: to
-be added once release `biorxiv-v1` is published on Zenodo).
+used (release `biorxiv-v1` for the version described in the preprint:
+[10.5281/zenodo.24080479](https://doi.org/10.5281/zenodo.24080479)).
 
 ## Related repositories
 
